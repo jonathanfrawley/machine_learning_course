@@ -1,1 +1,1 @@
-See [here](https://bit.ly/data_analysis_course_web) for course.
+See [here](https://jonathanfrawley.com/machine_learning_course) for course.

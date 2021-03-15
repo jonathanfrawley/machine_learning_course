@@ -1,9 +1,9 @@
-# Introduction to Data Analysis with Python
+# Introduction to Machine Learning with PyTorch
 *by Jonathan Frawley*
 
-This page: <https://bit.ly/data_analysis_course_web>
+This page: <https://bit.ly/jf_ml_course>
 
-If you notice an issue after the online course, please raise an issue through [GitHub](https://github.com/jonathanfrawley/data_analysis_course).
+If you notice an issue after the online course, please raise an issue through [GitHub](https://github.com/jonathanfrawley/machine_learning_course_course).
 
 ## How to use
 All of the exercises and slides are Jupyter notebooks run through Google's Colab service.
@@ -12,27 +12,27 @@ You can edit the code by double-clicking on a cell.
 You can reevaluate the code after editing to see the updated output.
 Output such as text and images automatically displayed, which is especially useful when outputting graphs or visualisations.
 
-Please use the following to try out Colab and make sure everything works as intended for you: <https://bit.ly/3qv9V0N>
+Please use the following to try out Colab and make sure everything works as intended for you: <https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/example/colab_test.ipynb>
 
-## Part 1: Introduction to NumPy, Matplotlib and Probability 
+## Part 1: Introduction to Machine Learning and PyTorch
 ### Slides
-<https://bit.ly/3bsBnbl>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/example/slides_01.ipynb>
  
 ### Exercises
-<https://bit.ly/3bx31Ed>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/exercises/exercise_01.ipynb>
 
 ### Answers
-<https://bit.ly/3qsQdTi>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/exercises/exercise_01_answers.ipynb>
 
-## Part 2: Analysing Datasets using Pandas
+## Part 2: Real-world PyTorch
 ### Slides
-<https://bit.ly/3ru5gxu>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/example/slides_02.ipynb>
  
 ### Exercises
-<https://bit.ly/38luwP4>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/exercises/exercise_02.ipynb>
 
 ### Answers
-<https://bit.ly/2Oz88dM>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/exercises/exercise_02_answers.ipynb>
 
 ## Part 3: Final Words
-<https://bit.ly/3boI7Xz>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/example/slides_03.ipynb>
