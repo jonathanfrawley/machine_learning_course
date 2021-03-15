@@ -3,7 +3,7 @@
 
 This page: <https://bit.ly/jf_ml_course>
 
-If you notice an issue after the online course, please raise an issue through [GitHub](https://github.com/jonathanfrawley/machine_learning_course_course).
+If you notice an issue after the online course, please raise an issue through [GitHub](https://github.com/jonathanfrawley/machine_learning_course).
 
 ## How to use
 All of the exercises and slides are Jupyter notebooks run through Google's Colab service.
