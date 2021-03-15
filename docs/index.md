@@ -16,23 +16,23 @@ Please use the following to try out Colab and make sure everything works as inte
 
 ## Part 1: Introduction to Machine Learning and PyTorch
 ### Slides
-<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/example/slides_01.ipynb>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/slides/slides_01.ipynb>
  
 ### Exercises
-<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/exercises/exercise_01.ipynb>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/exercises/exercises_01.ipynb>
 
 ### Answers
-<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/exercises/exercise_01_answers.ipynb>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/exercises/exercises_01_answers.ipynb>
 
 ## Part 2: Real-world PyTorch
 ### Slides
-<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/example/slides_02.ipynb>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/slides/slides_02.ipynb>
  
 ### Exercises
-<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/exercises/exercise_02.ipynb>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/exercises/exercises_02.ipynb>
 
 ### Answers
-<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/exercises/exercise_02_answers.ipynb>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/exercises/exercises_02_answers.ipynb>
 
 ## Part 3: Final Words
-<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/example/slides_03.ipynb>
+<https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/master/slides/slides_03.ipynb>
