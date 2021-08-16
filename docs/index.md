@@ -34,7 +34,5 @@ Please use the following to try out Colab and make sure everything works as inte
 ### Answers
 <https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/main/exercises/exercises_02_answers.ipynb>
 
-<!--
 ## Part 3: Final Words
 <https://colab.research.google.com/github/jonathanfrawley/machine_learning_course/blob/main/slides/slides_03.ipynb>
--->
